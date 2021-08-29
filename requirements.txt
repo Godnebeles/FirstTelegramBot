@@ -1,0 +1,2 @@
+pip install pyowm==2.10.0
+pip install aiogram=2.14.3
