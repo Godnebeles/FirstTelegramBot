@@ -1,2 +1,0 @@
-tgToken = '823263387:AAEqkGAqUj17vVgSAc_EoxZtumgE2X6J1ZI'
-weatherToken = '816bf98568a858b23ab8158a414c212d'
